@@ -1,3 +1,5 @@
+# Piškvorky jsem jen upravoval, není to moje práce !!!
+
 import random
 
 def main():
